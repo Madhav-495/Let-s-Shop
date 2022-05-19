@@ -1,0 +1,81 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+.container{
+	background-color:white;
+	color:black;
+	text-decoration:bolder;
+}
+/* nav{
+/* 	background-color:yellow; */
+/* } */ 
+nav ul li{
+	list-style-type:none;
+	margin:7px 6px;
+	padding:10px 12px;
+	color: #070807;
+	
+}
+nav ul{
+	display:flex;
+	align-items:center;
+	justify-content:flex-start;
+	font-weight:bolder;
+	font-size:18px;
+	height:112px;
+	box-shadow:1px;
+	margin: -4px -20px;
+    padding: 7px 0px;
+	
+	
+}
+#searchbar{
+	background-color:#e1e3e1;
+	width: 507px;
+    border-radius: 10px;
+    height: 36px;
+	text-align: center;
+    font-weight: bolder;
+    font-size: 13px;
+	margin:48px;
+}
+#image image{
+	height:20px;
+}
+.container1{
+	display:flex;
+	
+}
+.dealsofday{
+	display:flex;
+	margin:89px -201px;
+}
+footer{
+	background-color:#e3b6c1;
+	height:81px;
+	
+}
+.contact{
+	background-color:black;
+	    width: 497px;
+    height: 181px;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+}
+.phone_number{
+	 background-color:white;
+	height:10px;
+	margin:18px;
+	
+}
+.phone_number h5{
+	background-color:black;
+}
